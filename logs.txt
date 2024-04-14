@@ -1,0 +1,99 @@
+# Ги ставив сите пошто пишува логови, а не лог, иако тој на master е доволно за да се видат комитите од сите гранки
+# master
+commit 769000e609831e698bf7172f535bbae906b0d297 (HEAD -> master, origin/master, origin/bug2, bug2)
+Author: AMihajlovski0 <adrian.mihajlovski07@gmail.com>
+Date:   Sun Apr 14 10:14:55 2024 +0200
+
+    Call method makeBigStringFrom in main class
+
+commit 7b9a1cd78f0bf24630295e3c3f4c207fdf4cba6d
+Author: AMihajlovski0 <adrian.mihajlovski07@gmail.com>
+Date:   Sun Apr 14 10:07:03 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit 3cd48e3beee817e0fcb466fea26c537edea5f426 (origin/bug1, bug1)
+Author: AMihajlovski0 <adrian.mihajlovski07@gmail.com>
+Date:   Sun Apr 14 10:12:13 2024 +0200
+
+    Call method filterOddLengthStrings in main class
+
+commit 9eacccfe2d3a8cc17995771155b8102717394263
+Author: AMihajlovski0 <adrian.mihajlovski07@gmail.com>
+Date:   Sun Apr 14 10:04:28 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit 77bebd1049fea06f56750d8b534cef3be62e76a2
+Author: AMihajlovski0 <adrian.mihajlovski07@gmail.com>
+Date:   Sun Apr 14 09:45:04 2024 +0200
+
+    Add starter code
+
+commit d31f63c743b4eaf7b7c44bceb3ccb96cdde9e928
+Author: AMihajlovski0 <adrian.mihajlovski07@gmail.com>
+Date:   Sun Apr 14 09:44:09 2024 +0200
+
+    Initial commit
+
+# bug1
+commit 3cd48e3beee817e0fcb466fea26c537edea5f426 (HEAD -> bug1, origin/bug1)
+Author: AMihajlovski0 <adrian.mihajlovski07@gmail.com>
+Date:   Sun Apr 14 10:12:13 2024 +0200
+
+    Call method filterOddLengthStrings in main class
+
+commit 9eacccfe2d3a8cc17995771155b8102717394263
+Author: AMihajlovski0 <adrian.mihajlovski07@gmail.com>
+Date:   Sun Apr 14 10:04:28 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit 77bebd1049fea06f56750d8b534cef3be62e76a2
+Author: AMihajlovski0 <adrian.mihajlovski07@gmail.com>
+Date:   Sun Apr 14 09:45:04 2024 +0200
+
+    Add starter code
+
+commit d31f63c743b4eaf7b7c44bceb3ccb96cdde9e928
+Author: AMihajlovski0 <adrian.mihajlovski07@gmail.com>
+Date:   Sun Apr 14 09:44:09 2024 +0200
+
+    Initial commit
+
+# bug2
+commit 769000e609831e698bf7172f535bbae906b0d297 (HEAD -> bug2, origin/master, origin/bug2, master)
+Author: AMihajlovski0 <adrian.mihajlovski07@gmail.com>
+Date:   Sun Apr 14 10:14:55 2024 +0200
+
+    Call method makeBigStringFrom in main class
+
+commit 7b9a1cd78f0bf24630295e3c3f4c207fdf4cba6d
+Author: AMihajlovski0 <adrian.mihajlovski07@gmail.com>
+Date:   Sun Apr 14 10:07:03 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit 3cd48e3beee817e0fcb466fea26c537edea5f426 (origin/bug1, bug1)
+Author: AMihajlovski0 <adrian.mihajlovski07@gmail.com>
+Date:   Sun Apr 14 10:12:13 2024 +0200
+
+    Call method filterOddLengthStrings in main class
+
+commit 9eacccfe2d3a8cc17995771155b8102717394263
+Author: AMihajlovski0 <adrian.mihajlovski07@gmail.com>
+Date:   Sun Apr 14 10:04:28 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit 77bebd1049fea06f56750d8b534cef3be62e76a2
+Author: AMihajlovski0 <adrian.mihajlovski07@gmail.com>
+Date:   Sun Apr 14 09:45:04 2024 +0200
+
+    Add starter code
+
+commit d31f63c743b4eaf7b7c44bceb3ccb96cdde9e928
+Author: AMihajlovski0 <adrian.mihajlovski07@gmail.com>
+Date:   Sun Apr 14 09:44:09 2024 +0200
+
+    Initial commit
